@@ -3,7 +3,7 @@ the birth of $$$
 
 ## Description:
 
-jubilant-spoon is a sandbox game designed to approx. real world physics in a way that enables players to lear STEM while they play. It uses cutting edge numerical techniques, real world data, and realistic models to simulation game events in such a way that events mimick real-life.
+jubilant-spoon is a sandbox game designed to approx. real world physics in a way that enables players to lear STEM while they play. It uses cutting edge numerical techniques, real world data, and realistic models to simulate game events in such a way that events mimick real-life.
 
 ## expectations:
 
